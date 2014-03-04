@@ -1,0 +1,5 @@
+.classpath
+.project
+.settings/
+webfrag-core/target/
+webfrag-fragment/target/
