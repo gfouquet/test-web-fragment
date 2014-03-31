@@ -6,7 +6,7 @@
 http://java.sun.com/xml/ns/javaee/web-fragment_3_0.xsd"
 	id="WebFragment_ID" version="3.0">
 	<display-name>webfrag-fragment</display-name>
-	<name>webfrag-fragment</name>
+	<name>webfrag_fragment</name>
 	<context-param>
 		<param-name>foo</param-name>
 		<param-value>bar</param-value>

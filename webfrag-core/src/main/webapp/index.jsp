@@ -17,5 +17,10 @@ ${ initParam }
 	Hello : <f:message key="hello" />
 	</f:bundle>
 </p>
+<h3>plugins classpath</h3>
+<p>
+	Plugin class : ${ pluginClass }<br />
+	Plugin instance : ${ pluginInstance }<br />
+</p>
 </body>
 </html>
